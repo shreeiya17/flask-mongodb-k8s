@@ -1,0 +1,357 @@
+04:48:15
+flask-app-hpa   Deployment/flask-app   cpu: 68%/70%   2     5     5     31m
+flask-app-7dcfbfff97-8shjp   137m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   137m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   135m   24Mi    
+load-generator-1             503m   9Mi     
+load-generator-2             388m   7Mi     
+mongo-0                      58m    100Mi   
+
+04:48:30
+flask-app-hpa   Deployment/flask-app   cpu: 68%/70%   2     5     5     31m
+flask-app-7dcfbfff97-8shjp   137m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   137m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   135m   24Mi    
+load-generator-1             503m   9Mi     
+load-generator-2             388m   7Mi     
+mongo-0                      58m    100Mi   
+
+04:48:45
+flask-app-hpa   Deployment/flask-app   cpu: 68%/70%   2     5     5     31m
+flask-app-7dcfbfff97-8shjp   137m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   137m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   135m   24Mi    
+load-generator-1             503m   9Mi     
+load-generator-2             388m   7Mi     
+mongo-0                      58m    100Mi   
+
+04:49:00
+flask-app-hpa   Deployment/flask-app   cpu: 68%/70%   2     5     5     32m
+flask-app-7dcfbfff97-8shjp   137m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   137m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   135m   24Mi    
+load-generator-1             503m   9Mi     
+load-generator-2             388m   7Mi     
+mongo-0                      58m    100Mi   
+
+04:49:15
+flask-app-hpa   Deployment/flask-app   cpu: 68%/70%   2     5     5     32m
+flask-app-7dcfbfff97-8shjp   135m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   135m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   139m   24Mi    
+load-generator-1             500m   8Mi     
+load-generator-2             379m   6Mi     
+mongo-0                      58m    100Mi   
+
+04:49:30
+flask-app-hpa   Deployment/flask-app   cpu: 68%/70%   2     5     5     32m
+flask-app-7dcfbfff97-8shjp   135m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   135m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   139m   24Mi    
+load-generator-1             500m   8Mi     
+load-generator-2             379m   6Mi     
+mongo-0                      58m    100Mi   
+
+04:49:45
+flask-app-hpa   Deployment/flask-app   cpu: 68%/70%   2     5     5     32m
+flask-app-7dcfbfff97-8shjp   135m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   135m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   139m   24Mi    
+load-generator-1             500m   8Mi     
+load-generator-2             379m   6Mi     
+mongo-0                      58m    100Mi   
+
+04:50:01
+flask-app-hpa   Deployment/flask-app   cpu: 68%/70%   2     5     5     33m
+flask-app-7dcfbfff97-8shjp   135m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   135m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   139m   24Mi    
+load-generator-1             500m   8Mi     
+load-generator-2             379m   6Mi     
+mongo-0                      58m    100Mi   
+
+04:50:16
+flask-app-hpa   Deployment/flask-app   cpu: 69%/70%   2     5     5     33m
+flask-app-7dcfbfff97-8shjp   137m   24Mi    
+flask-app-7dcfbfff97-dtfnb   139m   24Mi    
+flask-app-7dcfbfff97-l65bw   137m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   140m   24Mi    
+load-generator-1             498m   8Mi     
+load-generator-2             372m   7Mi     
+mongo-0                      58m    104Mi   
+
+04:50:31
+flask-app-hpa   Deployment/flask-app   cpu: 69%/70%   2     5     5     33m
+flask-app-7dcfbfff97-8shjp   137m   24Mi    
+flask-app-7dcfbfff97-dtfnb   139m   24Mi    
+flask-app-7dcfbfff97-l65bw   137m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   140m   24Mi    
+load-generator-1             498m   8Mi     
+load-generator-2             372m   7Mi     
+mongo-0                      58m    104Mi   
+
+04:50:46
+flask-app-hpa   Deployment/flask-app   cpu: 69%/70%   2     5     5     33m
+flask-app-7dcfbfff97-8shjp   137m   24Mi    
+flask-app-7dcfbfff97-dtfnb   139m   24Mi    
+flask-app-7dcfbfff97-l65bw   137m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   140m   24Mi    
+load-generator-1             498m   8Mi     
+load-generator-2             372m   7Mi     
+mongo-0                      58m    104Mi   
+
+04:51:01
+flask-app-hpa   Deployment/flask-app   cpu: 69%/70%   2     5     5     34m
+flask-app-7dcfbfff97-8shjp   137m   24Mi    
+flask-app-7dcfbfff97-dtfnb   139m   24Mi    
+flask-app-7dcfbfff97-l65bw   137m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   140m   24Mi    
+load-generator-1             498m   8Mi     
+load-generator-2             372m   7Mi     
+mongo-0                      58m    104Mi   
+
+04:51:16
+flask-app-hpa   Deployment/flask-app   cpu: 69%/70%   2     5     5     34m
+flask-app-7dcfbfff97-8shjp   140m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   139m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   140m   24Mi    
+mongo-0                      58m    103Mi   
+
+04:51:31
+flask-app-hpa   Deployment/flask-app   cpu: 69%/70%   2     5     5     34m
+flask-app-7dcfbfff97-8shjp   140m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   139m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   140m   24Mi    
+mongo-0                      58m    103Mi   
+
+04:51:46
+flask-app-hpa   Deployment/flask-app   cpu: 69%/70%   2     5     5     34m
+flask-app-7dcfbfff97-8shjp   140m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   139m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   140m   24Mi    
+mongo-0                      58m    103Mi   
+
+04:52:02
+flask-app-hpa   Deployment/flask-app   cpu: 69%/70%   2     5     5     35m
+flask-app-7dcfbfff97-8shjp   140m   24Mi    
+flask-app-7dcfbfff97-dtfnb   137m   24Mi    
+flask-app-7dcfbfff97-l65bw   139m   24Mi    
+flask-app-7dcfbfff97-tbzjh   137m   24Mi    
+flask-app-7dcfbfff97-x4nkk   140m   24Mi    
+mongo-0                      58m    103Mi   
+
+04:52:17
+flask-app-hpa   Deployment/flask-app   cpu: 10%/70%   2     5     5     35m
+flask-app-7dcfbfff97-8shjp   11m   24Mi    
+flask-app-7dcfbfff97-dtfnb   16m   24Mi    
+flask-app-7dcfbfff97-l65bw   23m   24Mi    
+flask-app-7dcfbfff97-tbzjh   15m   24Mi    
+flask-app-7dcfbfff97-x4nkk   35m   24Mi    
+mongo-0                      18m   102Mi   
+
+04:52:32
+flask-app-hpa   Deployment/flask-app   cpu: 10%/70%   2     5     5     35m
+flask-app-7dcfbfff97-8shjp   11m   24Mi    
+flask-app-7dcfbfff97-dtfnb   16m   24Mi    
+flask-app-7dcfbfff97-l65bw   23m   24Mi    
+flask-app-7dcfbfff97-tbzjh   15m   24Mi    
+flask-app-7dcfbfff97-x4nkk   35m   24Mi    
+mongo-0                      18m   102Mi   
+
+04:52:47
+flask-app-hpa   Deployment/flask-app   cpu: 10%/70%   2     5     5     35m
+flask-app-7dcfbfff97-8shjp   11m   24Mi    
+flask-app-7dcfbfff97-dtfnb   16m   24Mi    
+flask-app-7dcfbfff97-l65bw   23m   24Mi    
+flask-app-7dcfbfff97-tbzjh   15m   24Mi    
+flask-app-7dcfbfff97-x4nkk   35m   24Mi    
+mongo-0                      18m   102Mi   
+
+04:53:02
+flask-app-hpa   Deployment/flask-app   cpu: 10%/70%   2     5     5     36m
+flask-app-7dcfbfff97-8shjp   11m   24Mi    
+flask-app-7dcfbfff97-dtfnb   16m   24Mi    
+flask-app-7dcfbfff97-l65bw   23m   24Mi    
+flask-app-7dcfbfff97-tbzjh   15m   24Mi    
+flask-app-7dcfbfff97-x4nkk   35m   24Mi    
+mongo-0                      18m   102Mi   
+
+04:53:17
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     36m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      9m    102Mi   
+
+04:53:32
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     36m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      9m    102Mi   
+
+04:53:47
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     36m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      9m    102Mi   
+
+04:54:03
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     37m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      9m    102Mi   
+
+04:54:18
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     37m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    104Mi   
+
+04:54:33
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     37m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    104Mi   
+
+04:55:47
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     38m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    104Mi   
+
+04:56:02
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     39m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    104Mi   
+
+04:56:18
+flask-app-hpa   Deployment/flask-app   cpu: 0%/70%   2     5     5     39m
+flask-app-7dcfbfff97-8shjp   1m    24Mi    
+flask-app-7dcfbfff97-dtfnb   1m    24Mi    
+flask-app-7dcfbfff97-l65bw   1m    24Mi    
+flask-app-7dcfbfff97-tbzjh   1m    24Mi    
+flask-app-7dcfbfff97-x4nkk   1m    24Mi    
+mongo-0                      4m    106Mi   
+
+04:56:33
+flask-app-hpa   Deployment/flask-app   cpu: 0%/70%   2     5     5     39m
+flask-app-7dcfbfff97-8shjp   1m    24Mi    
+flask-app-7dcfbfff97-dtfnb   1m    24Mi    
+flask-app-7dcfbfff97-l65bw   1m    24Mi    
+flask-app-7dcfbfff97-tbzjh   1m    24Mi    
+flask-app-7dcfbfff97-x4nkk   1m    24Mi    
+mongo-0                      4m    106Mi   
+
+04:56:48
+flask-app-hpa   Deployment/flask-app   cpu: 0%/70%   2     5     5     39m
+flask-app-7dcfbfff97-8shjp   1m    24Mi    
+flask-app-7dcfbfff97-dtfnb   1m    24Mi    
+flask-app-7dcfbfff97-l65bw   1m    24Mi    
+flask-app-7dcfbfff97-tbzjh   1m    24Mi    
+flask-app-7dcfbfff97-x4nkk   1m    24Mi    
+mongo-0                      4m    106Mi   
+
+04:57:03
+flask-app-hpa   Deployment/flask-app   cpu: 0%/70%   2     5     5     40m
+flask-app-7dcfbfff97-8shjp   1m    24Mi    
+flask-app-7dcfbfff97-dtfnb   1m    24Mi    
+flask-app-7dcfbfff97-l65bw   1m    24Mi    
+flask-app-7dcfbfff97-tbzjh   1m    24Mi    
+flask-app-7dcfbfff97-x4nkk   1m    24Mi    
+mongo-0                      4m    106Mi   
+
+04:57:18
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     40m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    106Mi   
+
+04:57:33
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     40m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    106Mi   
+
+04:57:48
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     40m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    106Mi   
+
+04:58:03
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     5     41m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    106Mi   
+
+04:58:19
+flask-app-hpa   Deployment/flask-app   cpu: 1%/70%   2     5     2     41m
+flask-app-7dcfbfff97-8shjp   2m    24Mi    
+flask-app-7dcfbfff97-dtfnb   2m    24Mi    
+flask-app-7dcfbfff97-l65bw   2m    24Mi    
+flask-app-7dcfbfff97-tbzjh   2m    24Mi    
+flask-app-7dcfbfff97-x4nkk   2m    24Mi    
+mongo-0                      8m    106Mi   
+

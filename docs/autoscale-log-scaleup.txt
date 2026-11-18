@@ -1,0 +1,3 @@
+cd ~/flask-mongodb-k8s
+pbpaste > docs/autoscale-log-scaleup.txt
+head -3 docs/autoscale-log-scaleup.txt
